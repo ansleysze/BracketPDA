@@ -1,3 +1,6 @@
+# Made By Ansley Paul Sze
+# Debugged and Tested By Teodoro Jose Cruz
+
 class PDA:
     def __init__(self):
         self.states = {'q0', 'q1', 'q2'}
