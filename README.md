@@ -4,7 +4,7 @@ This Python project implements a Pushdown Automaton (PDA) to validate strings fo
 The program should simulate the way a PDA would process strings. The PDA’s components (e.g. states, transitions, stack) should be represented through some methods or data structures in Python.
 
 
-Features
+# Features <br />
 Validates strings for balanced bracket sequences.  <br />
 Handles the following bracket types: (), [], {}, <>.  <br />
 Handles nested brackets.  <br />
