@@ -5,8 +5,8 @@ The program should simulate the way a PDA would process strings. The PDA’s com
 
 
 Features
-Validates strings for balanced bracket sequences.
-Handles the following bracket types: (), [], {}, <>.
-Handles nested brackets.
-Provides detailed error messages for invalid strings.
-Implemented using Python.
+Validates strings for balanced bracket sequences.  <br />
+Handles the following bracket types: (), [], {}, <>.  <br />
+Handles nested brackets.  <br />
+Provides detailed error messages for invalid strings.  <br />
+Implemented using Python.  <br />
