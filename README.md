@@ -1,3 +1,5 @@
+Created for a school project requirement
+
 # BracketPDA
 This Python project implements a Pushdown Automaton (PDA) to validate strings for balanced bracket sequences. The PDA simulates the behavior of a stack machine to check whether the brackets in a given string are properly balanced. Provide input strings when prompted. Make sure the input string starts and ends with an exclamation mark (!) .
 
